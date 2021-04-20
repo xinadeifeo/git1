@@ -2,4 +2,9 @@ Here is our introcution to Git and Github
 
 Let's Git!
 
+<<<<<<< HEAD
 Understanding conflict in Git!
+=======
+Understanding conflict in branching
+Some Git conflict!
+>>>>>>> feature-c
