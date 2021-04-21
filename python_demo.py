@@ -1,4 +1,4 @@
-#Some Demo from W3shool
+# Some Demo Code from W3shool
 
 class Person:
   def __init__(mysillyobject, name, age):
